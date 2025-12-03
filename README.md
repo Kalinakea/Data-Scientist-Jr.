@@ -1,6 +1,6 @@
 # Analysis of the opportunities for renewable energy in Mexico
 
-<img src= "Sener-renovables.jpg" width="300"> <img src= "Sener-renovables.jpg" width="300">
+<img src= "Sener-renovables.jpg" width="300"> <img src= "python-logo-png_seeklogo-207405.png" width="300">
 
 Nowadays, the overexploting of the non renewables resources are leading Mexico to take energetic alternatives for the lack of fosil fuels and global climate consecuenses.
 
