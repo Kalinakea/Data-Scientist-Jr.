@@ -30,4 +30,6 @@ Dirty databases were used, so the cleaning must be done before any analysis or d
         for col in nombres_col:
           df_dirty[col] = df_dirty[col].fillna(df_dirty[col].median()) 
 
-The largest database used was the global energetic containing categories such as capacity, power sector emitions... for every type of energy (Hydro, Bioenergy, Renewables, Wind and Solar, Bioenergy, Nuclear). It has 357014 rows × 18 columns so it was a challenge to apply the correct filters according to the results and the conclutions that are wanted. A disperssion graph analysing capacity vs electricity generation, and it included just the top 14 most relevant countries for Mexico.
+The largest database used was the global energetic containing categories such as capacity, power sector emitions... for every type of energy (Hydro, Bioenergy, Renewables, Wind and Solar, Bioenergy, Nuclear). It has 357014 rows × 18 columns so it was a challenge to apply the correct filters according to the results and the conclutions that are wanted. A disperssion graph analysing capacity vs electricity generation, and it included just the top 14 most relevant countries for Mexico. Due to EEUU and China´s potential, it was necessary to create another disperssion graph in order to appreciate more clearly the difference between countries.
+
+<img src="Pictures/Captura%20de%20pantalla%202025-12-04%20234553.png" width=500> <img src="Pictures/Captura%20de%20pantalla%202025-12-04%20234616.png" width=500>
