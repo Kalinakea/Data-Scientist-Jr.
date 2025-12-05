@@ -33,3 +33,7 @@ Dirty databases were used, so the cleaning must be done before any analysis or d
 The largest database used was the global energetic containing categories such as capacity, power sector emitions... for every type of energy (Hydro, Bioenergy, Renewables, Wind and Solar, Bioenergy, Nuclear). It has 357014 rows × 18 columns so it was a challenge to apply the correct filters according to the results and the conclutions that are wanted. A disperssion graph analysing capacity vs electricity generation, and it included just the top 14 most relevant countries for Mexico. Due to EEUU and China´s potential, it was necessary to create another disperssion graph in order to appreciate more clearly the difference between countries.
 
 <img src="Pictures/Captura%20de%20pantalla%202025-12-04%20234553.png" width=500> <img src="Pictures/Captura%20de%20pantalla%202025-12-04%20234616.png" width=500>
+
+Machine Learning tools were used, especifically linear and logistic regression and boostraping. In the first image it can´t really be appreciated the line, beacuse the goal was to graph the solar curve. It shows the solar radiation (W/m2) that is capted each hour in the state of Aguascalientes. Deppending on the values of this curve and the amount of useful hours, it shows whether the solar radiation can be used to generate thermal or electric energy.
+
+<img src="Pictures/Captura%20de%20pantalla%202025-12-04%20235229.png" width=500>
