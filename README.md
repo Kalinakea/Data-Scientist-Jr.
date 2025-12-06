@@ -34,6 +34,11 @@ The largest database used was the global energetic containing categories such as
 
 <img src="Pictures/Captura%20de%20pantalla%202025-12-04%20234553.png" width=500> <img src="Pictures/Captura%20de%20pantalla%202025-12-04%20234616.png" width=500>
 
-Machine Learning tools were used, especifically linear and logistic regression and boostraping. In the first image it can´t really be appreciated the line, beacuse the goal was to graph the solar curve. It shows the solar radiation (W/m2) that is capted each hour in the state of Aguascalientes. Deppending on the values of this curve and the amount of useful hours, it shows whether the solar radiation can be used to generate thermal or electric energy.
+Machine Learning tools were used, especifically linear and logistic regression and boostraping. In the first image it can´t really be appreciated the line, beacuse the goal was to graph the solar curve. It shows the solar radiation (W/m2) that is capted each hour in the state of Aguascalientes. Deppending on the values of this curve and the amount of useful hours, it shows whether the solar radiation can be used to generate thermal or electric energy in the near. The equation of the line is 3.63x + 184.73 but as it was said, it isn´t quite useful but it shows a little positive tendency.
 
-<img src="Pictures/Captura%20de%20pantalla%202025-12-04%20235229.png" width=500>
+The total number of rows in this dataset is 11,000, so a boostrapping is clearly necessary because of the amount of samples.
+What the second graphic shows is that the mean is 95% for sure that is bewteen 220.22 and 232.20 W/m2 per hour. The importance of this grapic is that we can have a mean of a poblation from samples without guessing its values. It´s a tool of statistical sampling, so when the experts or the gobernment want to know if it is aproppiate to install solar technology, they can consult these graphic so they know if the area is consistent with the general mean solar radiation and not just the sample mean.
+
+<img src="Pictures/Captura%20de%20pantalla%202025-12-04%20235229.png" width=500> <img src="Pictures/Captura%20de%20pantalla%202025-12-04%20235515.png" width=500>
+
+
