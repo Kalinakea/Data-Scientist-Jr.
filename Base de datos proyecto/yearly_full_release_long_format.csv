@@ -1,0 +1,10 @@
+indice,Area,ISO 3 code,Year,Category,Subcategory,Variable,Unit,Valu
+1521,Afghanistan,AFG,2023,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GW,0.47
+1522,Afghanistan,AFG,2023,Capacity,Aggregate fuel,Renewables,GW,0.52
+1523,Afghanistan,AFG,2023,Capacity,Aggregate fuel,Wind and Solar,GW,0.05
+1544,Afghanistan,AFG,2023,Electricity generation,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",TWh,0.75
+1545,Afghanistan,AFG,2023,Electricity generation,Aggregate fuel,Renewables,TWh,0.84
+1546,Afghanistan,AFG,2023,Electricity generation,Aggregate fuel,Wind and Solar,TWh,0.09
+3105,Africa,NaN,2023,Capacity,Aggregate fuel,"Hydro, Bioenergy and Other Renewables",GW,40.5
+3106,Africa,NaN,2023,Capacity,Aggregate fuel,Renewables,GW,62.67
+3107,Africa,NaN,2023,Capacity,Aggregate fuel,Wind and Solar,GW,22.17
